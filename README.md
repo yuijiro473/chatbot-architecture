@@ -11,7 +11,7 @@ https://www.docker.com/products/docker-desktop/
 ターミナルで以下のコマンドを実行し、任意のフォルダに対してリポジトリをクローンしてください。
 
 ```
-git clone https://github.com/yuijiro473/chatbot-architect 
+git clone https://github.com/yuijiro473/chatbot-architecture
 ```
 
 <br>
@@ -20,6 +20,7 @@ git clone https://github.com/yuijiro473/chatbot-architect
 以下のコマンドを実行し、Dockerコンテナを起動してください。
 
 ```
+cd chatbot-architecture
 docker-compose up -d --build
 ```
 
