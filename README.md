@@ -28,6 +28,6 @@ docker-compose up -d --build
 <h2>3. 「Hello,World!」表示の確認</h2>
 ブラウザで以下のURLにアクセスしてください。   
 <br>
-http://localhost:5000
+http://localhost:5011
 <br><br>
 「Hello,World!」が表示されれば成功です。（お疲れ様でした！）
