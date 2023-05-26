@@ -1,9 +1,9 @@
 ## 環境構築
 
-<h2>前提: Dockerのインストール</h2>
-Dockerがインストールされていない場合のみ、以下の公式サイトからダウンロードしてください。
+## 前提条件
+1. **Dockerのインストール:** Dockerがまだインストールされていない場合は、[公式サイト](https://www.docker.com/products/docker-desktop/)からダウンロードし、インストールしてください。
 
-https://www.docker.com/products/docker-desktop/
+2. **Gitのインストール:** Gitがまだインストールされていない場合は、インストールしてください。
 
 <br>
 
@@ -31,4 +31,4 @@ docker-compose up -d --build
 <br>
 http://localhost:5011
 <br><br>
-「Hello,World!」が表示されれば成功です。（お疲れ様でした！）
+「Hello,World!」が表示されれば成功です。
